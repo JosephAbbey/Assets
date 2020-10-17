@@ -1,2 +1,2 @@
 # Prism
-My prism pre-set from https://prismjs.com/
+https://prismjs.com/ || https://github.com/PrismJS
